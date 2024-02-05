@@ -7,7 +7,6 @@ Mobile Engineer
 *   🌍  I'm based in Bishkek, Kyrgyzstan 🇰🇬
 *   ✉️  You can contact me at [mail@efimov.co](mailto:mail@efimov.co)
 *   🚀  I'm currently working at [Locals.org](http://locals.org)
-*   🧠  I'm learning React & React Native
 
 ### Skills 
 <p align="left">
